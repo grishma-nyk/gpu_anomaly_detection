@@ -1,4 +1,4 @@
-[200~numpy
+numpy
 pandas
 matplotlib
 seaborn
