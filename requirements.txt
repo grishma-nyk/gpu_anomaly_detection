@@ -1,0 +1,8 @@
+[200~numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+ipywidgets
+notebook
